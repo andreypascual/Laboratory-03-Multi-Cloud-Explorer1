@@ -229,5 +229,10 @@ The company could use Amazon EC2 Auto Scaling, Amazon S3 for product images and 
 |Global Web Application	|AWS	|Most extensive global infrastructure, highest number of regions/AZs, CloudFront CDN, proven reliability at massive scale.|
 
 ## Check Point 7
-!
+![image alt](https://github.com/andreypascual/Laboratory-03-Multi-Cloud-Explorer1/blob/6eb2823e0301cfd7dae09cb8a2c24bcfcca24545/operating%20system.png)
+
+![image alt](https://github.com/andreypascual/Laboratory-03-Multi-Cloud-Explorer1/blob/6eb2823e0301cfd7dae09cb8a2c24bcfcca24545/cpuinfo.png)
+![image alt](https://github.com/andreypascual/Laboratory-03-Multi-Cloud-Explorer1/blob/6eb2823e0301cfd7dae09cb8a2c24bcfcca24545/memory%20(RAM).png)
+![image alt](https://github.com/andreypascual/Laboratory-03-Multi-Cloud-Explorer1/blob/6eb2823e0301cfd7dae09cb8a2c24bcfcca24545/disk%20space.png)
+
 
