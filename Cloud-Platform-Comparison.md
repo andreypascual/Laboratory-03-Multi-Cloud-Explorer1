@@ -31,4 +31,12 @@
   focus on innovation, cost efficiency, and excellent tools for data analytics and modern application development. 
   It also runs on the same reliable infrastructure used by Google’s own services.
  
-###
+### Match the Cloud Service
+
+|Service Category|AWS|AZURE|GCP|
+|----------------|---|-----|---|
+|Virtual Machine |Amazon EC2|Azure Virtual Machine| Google Compute Engine|
+|Object Storage |AmazonS3|Azure Blob Storage |Google Cloud Storage|
+|identity Management |IAM| Azure Active Directory| Cloud IAM |
+|SQL Database |Amazon RDS| Azure SQL Database| Cloud SQL|
+|Kubernetes| Amazon EKS| Azure Kubernetes Service(AKS)|Google Kubernetes Engine (GKE)|
