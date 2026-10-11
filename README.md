@@ -228,4 +228,6 @@ The company could use Amazon EC2 Auto Scaling, Amazon S3 for product images and 
 |Kubernetes Deployment|	GCP|	GKE originated at Google; most mature, fully managed Kubernetes service; open-source leadership and expert support.|
 |Global Web Application	|AWS	|Most extensive global infrastructure, highest number of regions/AZs, CloudFront CDN, proven reliability at massive scale.|
 
+## Check Point 7
+!
 
