@@ -1,11 +1,11 @@
-Amazon Web Services (AWS)
+### Amazon Web Services (AWS)
  
 Brief Overview
 Amazon Web Services (AWS) is the world’s most widely adopted cloud platform, 
 offering on-demand computing resources and services to businesses, governments, and individuals worldwide. 
 Launched in 2006, it provides flexible, scalable, and cost-effective cloud solutions.
  
-Global Infrastructure
+### Global Infrastructure
  
 - 32 geographic Regions worldwide
 ​
@@ -13,13 +13,13 @@ Global Infrastructure
 ​
 - Network of edge locations and regional caches for low-latency content delivery
  
-Cloud Management Console
+### Cloud Management Console
  
 - Web-based interface to access and manage all AWS services
 ​
 - Centralized dashboard for monitoring, security, and billing
  
-Four Core Services
+### Four Core Services
  
 1. Amazon EC2 — Elastic Compute Cloud (virtual servers)
 ​
@@ -29,7 +29,7 @@ Four Core Services
 ​
 4. IAM — Identity and Access Management (security)
  
-Three Advantages
+### Three Advantages
  
 - ✅ Widest range of services and deepest functionality
 ​
@@ -37,7 +37,7 @@ Three Advantages
 ​
 - ✅ Pay-as-you-go pricing with no upfront costs
  
-Typical Enterprise Use Cases
+### Typical Enterprise Use Cases
  
 - Web and mobile application hosting
 ​
