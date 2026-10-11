@@ -1,4 +1,4 @@
-Google Cloud Platform (GCP)
+### Google Cloud Platform (GCP)
  
 Brief Overview
 Google Cloud Platform is a suite of cloud computing services 
@@ -6,7 +6,7 @@ that runs on the same infrastructure Google uses internally
 for its end-user products like Google Search and YouTube. 
 It is known for strong data analytics, AI, and open-source leadership.
  
-Global Infrastructure
+### Global Infrastructure
  
 - 34 Regions worldwide
 
@@ -14,13 +14,13 @@ Global Infrastructure
 
 - High-speed private global fiber network
  
-Cloud Management Console
+### Cloud Management Console
  
 - Clean, modern interface with project-based organization
 
 - Centralized access to billing, monitoring, and APIs
  
-Four Core Services
+### Four Core Services
  
 1. Google Compute Engine — Virtual machines
 
@@ -30,7 +30,7 @@ Four Core Services
 
 4. Cloud IAM — Identity and Access Management
  
-Three Advantages
+### Three Advantages
  
 - ✅ Industry-leading AI/ML and data analytics tools
 
@@ -38,7 +38,7 @@ Three Advantages
 
 - ✅ Cost-effective and transparent pricing
  
-Typical Enterprise Use Cases
+### Typical Enterprise Use Cases
  
 - Data analytics and machine learning pipelines
 
