@@ -227,3 +227,5 @@ The company could use Amazon EC2 Auto Scaling, Amazon S3 for product images and 
 |AI / Machine Learning|	GCP	|Industry-leading AI tools (Vertex AI), pretrained models, scalable ML infrastructure, Google's deep research backing.|
 |Kubernetes Deployment|	GCP|	GKE originated at Google; most mature, fully managed Kubernetes service; open-source leadership and expert support.|
 |Global Web Application	|AWS	|Most extensive global infrastructure, highest number of regions/AZs, CloudFront CDN, proven reliability at massive scale.|
+
+![image alt](https://github.com/andreypascual/Laboratory-03-Multi-Cloud-Explorer1/blob/main/cpuinfo.png?raw=true)
