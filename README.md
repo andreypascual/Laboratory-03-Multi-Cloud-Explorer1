@@ -229,8 +229,19 @@ The company could use Amazon EC2 Auto Scaling, Amazon S3 for product images and 
 |Global Web Application	|AWS	|Most extensive global infrastructure, highest number of regions/AZs, CloudFront CDN, proven reliability at massive scale.|
 
 ## Check Point 7
-![image alt](https://github.com/andreypascual/Laboratory-03-Multi-Cloud-Explorer1/blob/6eb2823e0301cfd7dae09cb8a2c24bcfcca24545/operating%20system.png)
 
+|Cloud Provider	|Service Name|Description|
+|---------------|------------|-----------|
+|AWS|	Amazon EC2	|Elastic Compute Cloud — virtual servers that support all major Linux distributions. You choose the CPU, memory, and storage configuration.|
+|Microsoft Azure|	Azure Virtual Machines|	Linux-compatible virtual machines that can be scaled up or down as needed.|
+|Google Cloud Platform	|Google Compute Engine|	High-performance virtual machines running Linux, available in multiple regions worldwide.|
+
+
+
+
+
+![image alt](https://github.com/andreypascual/Laboratory-03-Multi-Cloud-Explorer1/blob/6eb2823e0301cfd7dae09cb8a2c24bcfcca24545/operating%20system.png)
+![image alt](https://github.com/andreypascual/Laboratory-03-Multi-Cloud-Explorer1/blob/bc667b1da84e582d58e3e7d4c2008f73cae880c7/cpuinfo1.png)
 ![image alt](https://github.com/andreypascual/Laboratory-03-Multi-Cloud-Explorer1/blob/6eb2823e0301cfd7dae09cb8a2c24bcfcca24545/cpuinfo.png)
 ![image alt](https://github.com/andreypascual/Laboratory-03-Multi-Cloud-Explorer1/blob/6eb2823e0301cfd7dae09cb8a2c24bcfcca24545/memory%20(RAM).png)
 ![image alt](https://github.com/andreypascual/Laboratory-03-Multi-Cloud-Explorer1/blob/6eb2823e0301cfd7dae09cb8a2c24bcfcca24545/disk%20space.png)
