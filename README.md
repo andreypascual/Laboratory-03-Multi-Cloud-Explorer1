@@ -237,7 +237,7 @@ The company could use Amazon EC2 Auto Scaling, Amazon S3 for product images and 
 |Google Cloud Platform	|Google Compute Engine|	High-performance virtual machines running Linux, available in multiple regions worldwide.|
 
 
-
+## Screenshots
 
 
 ![image alt](https://github.com/andreypascual/Laboratory-03-Multi-Cloud-Explorer1/blob/6eb2823e0301cfd7dae09cb8a2c24bcfcca24545/operating%20system.png)
@@ -246,4 +246,7 @@ The company could use Amazon EC2 Auto Scaling, Amazon S3 for product images and 
 ![image alt](https://github.com/andreypascual/Laboratory-03-Multi-Cloud-Explorer1/blob/6eb2823e0301cfd7dae09cb8a2c24bcfcca24545/memory%20(RAM).png)
 ![image alt](https://github.com/andreypascual/Laboratory-03-Multi-Cloud-Explorer1/blob/6eb2823e0301cfd7dae09cb8a2c24bcfcca24545/disk%20space.png)
 
+![image alt](https://github.com/andreypascual/Laboratory-03-Multi-Cloud-Explorer1/blob/a6244f2ce1baa03c1fcda9326cb2487646b81340/aws%2Cconsole.png)
+![image alt](https://github.com/andreypascual/Laboratory-03-Multi-Cloud-Explorer1/blob/a6244f2ce1baa03c1fcda9326cb2487646b81340/Microsoft%20Azure.png)
+![image alt](https://github.com/andreypascual/Laboratory-03-Multi-Cloud-Explorer1/blob/a6244f2ce1baa03c1fcda9326cb2487646b81340/gcp.png)
 
